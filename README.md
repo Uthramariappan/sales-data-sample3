@@ -1,3 +1,2 @@
-
-[project:sales data.pdf](https://github.com/Uthramariappan/sales-data-sample3/blob/main/sales%20data%20.pdf)
+[project:sales data.pdf]("C:\Users\aravi\Downloads\sales data .pdf")
 # sales-data-sample3
